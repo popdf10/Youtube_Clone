@@ -1,0 +1,27 @@
+{
+  "name": "youtube_clone",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/popdf10/Youtube_Clone.git"
+  },
+  "scripts": {
+    "dev": "nodemon --exec babel-node index.js"
+  },
+  "author": "Yunil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/popdf10/Youtube_Clone/issues"
+  },
+  "homepage": "https://github.com/popdf10/Youtube_Clone#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.18.6",
+    "@babel/node": "^7.18.6",
+    "@babel/preset-env": "^7.18.6",
+    "nodemon": "^2.0.18"
+  }
+}
